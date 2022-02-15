@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there
+
+😄 I'm Jack
 
 <!--
 **sunspla-sh/sunspla-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 You can find me at ...
+  - [🏖️ 🌅 sunspla.sh 🌅🏖️](https://sunspla.sh) (NOT LIVE)
+
+- 🧪 I’m currently working on ...
+  - [🐙🐚 divejoy.co 🐚🐙](https://divejoy.co)
+
+- 🌱 Some previous of my previous projects are ...
+  - [💻📍 ipomg.com 📍💻](https://ipomg.com) - quickly find your IP address and (approximate) location
+  - [⏳💸 hurryup.me 💸⏳](https://hurryup.me) - easily add a countdown to your Shopify product pages (NOT LIVE)
