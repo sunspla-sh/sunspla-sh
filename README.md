@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   - [🐙🐚 divejoy.co 🐚🐙](https://divejoy.co)
 
 - 🌱 Some previous of my previous projects include ...
-  - [💻📍 ipomg.com 📍💻](https://ipomg.com) - quickly find your IP address and (approximate) location
+  - [💻📍 ipomg.com 📍💻](https://ipomg.com) - quickly find your IP address and approximate location
   - [⏳💸 hurryup.me 💸⏳](https://hurryup.me) - easily add a countdown to your Shopify product pages (NOT LIVE)
