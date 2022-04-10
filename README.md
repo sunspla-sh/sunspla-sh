@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 You can find me at ...
-  - [🏖️🌅 sunspla.sh 🌅🏖️](https://sunspla.sh) (NOT LIVE)
+  - [🏖️ 🌅 sunspla.sh 🌅 🏖️](https://sunspla.sh) (NOT LIVE)
 
 - 🧪 I’m currently working on ...
-  - [🟩🎨 gitboxdraw.com 🎨🟩](https://gitboxdraw.com)
+  - [🟩 🎨 gitboxdraw.com 🎨 🟩](https://gitboxdraw.com)
 
 - 🌱 Some previous of my previous projects include ...
-  - [⏳💸 hurryup.me 💸⏳](https://hurryup.me) - easily add a countdown to your Shopify product pages (NOT LIVE)
+  - [⏳ 💸 hurryup.me 💸 ⏳](https://hurryup.me) - easily add a countdown to your Shopify product pages (NOT LIVE)
