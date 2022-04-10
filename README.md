@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 You can find me at ...
-  - [🏖️ 🌅 sunspla.sh 🌅🏖️](https://sunspla.sh) (NOT LIVE)
+  - [🏖️🌅 sunspla.sh 🌅🏖️](https://sunspla.sh) (NOT LIVE)
 
 - 🧪 I’m currently working on ...
-  - [🐙🐚 divejoy.co 🐚🐙](https://divejoy.co)
+  - [🟩🎨 gitboxdraw.com 🎨🟩](https://gitboxdraw.com)
 
 - 🌱 Some previous of my previous projects include ...
-  - [💻📍 ipomg.com 📍💻](https://ipomg.com) - quickly find your IP address and approximate location
   - [⏳💸 hurryup.me 💸⏳](https://hurryup.me) - easily add a countdown to your Shopify product pages (NOT LIVE)
