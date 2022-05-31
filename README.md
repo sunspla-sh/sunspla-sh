@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   - [🟩 🎨 gitboxdraw.com 🎨 🟩](https://gitboxdraw.com)
 
 - 🌱 Some of my previous projects include ...
-  - [🏟️ 🏈 NFL Team Data Scraper 🏈 🏟️](https://github.com/sunspla-sh/nfl-team-data-scraper) - easily add a countdown to your Shopify product pages (NOT LIVE)
+  - [🏟️ 🏈 NFL Team Data Scraper 🏈 🏟️](https://github.com/sunspla-sh/nfl-team-data-scraper) - a web scraper to pull all NFL team players from NFL.com and put them into JSON files
   - [📍 💻 IPOmg 💻 📍](https://ipomg.com) - find your IP address and approximate geolocation
