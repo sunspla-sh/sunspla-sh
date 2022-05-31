@@ -24,4 +24,5 @@ Here are some ideas to get you started:
   - [🟩 🎨 gitboxdraw.com 🎨 🟩](https://gitboxdraw.com)
 
 - 🌱 Some of my previous projects include ...
-  - [⏳ 💸 hurryup.me 💸 ⏳](https://hurryup.me) - easily add a countdown to your Shopify product pages (NOT LIVE)
+  - [🏟️ 🏈 NFL Team Data Scraper 🏈 🏟️](https://github.com/sunspla-sh/nfl-team-data-scraper) - easily add a countdown to your Shopify product pages (NOT LIVE)
+  - [📍 💻 IPOmg 💻 📍](https://ipomg.com) - find your IP address and approximate geolocation
