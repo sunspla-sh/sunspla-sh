@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   - [🏖️ 🌅 sunspla.sh 🌅 🏖️](https://sunspla.sh) (NOT LIVE)
 
 - 🧪 I’m currently having fun working on ...
-  - [🏢 🛠️ JobAppTrack 🛠️ 🏢](https://jobapptrack.com)
+  - [🏢 🛠️ JobAppTrack 🛠️ 🏢](https://jobapptrack.com) - a job application tracker built for my former coding bootcamp students
 
 - 🌱 Some of my previous projects include ...
-  - [🟩 🎨 GitBoxDraw 🎨 🟩](https://gitboxdraw.com) - deface your GitHub commit graph and become a green dot disrespector.
-  - [📍 💻 IPOmg 💻 📍](https://ipomg.com) - find your IP address and approximate geolocation with this static site and free API.
-  - [🗺️ ✏️ CommandLineCartography ✏️ 🗺️](https://github.com/sunspla-sh/command-line-cartography-practice) - learn to make a population density map of your state.
+  - [🟩 🎨 GitBoxDraw 🎨 🟩](https://gitboxdraw.com) - deface your GitHub commit graph and become a green dot disrespector
+  - [📍 💻 IPOmg 💻 📍](https://ipomg.com) - find your IP address and approximate geolocation with this static site and free API
+  - [🗺️ ✏️ CommandLineCartography ✏️ 🗺️](https://github.com/sunspla-sh/command-line-cartography-practice) - learn to make a population density map of your state
   - [🏟️ 🏈 NFL Team Data Scraper 🏈 🏟️](https://github.com/sunspla-sh/nfl-team-data-scraper) - a web scraper to pull all NFL team players from NFL.com and put them into JSON files
