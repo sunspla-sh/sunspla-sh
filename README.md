@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 You can find me at ...
-  - [🏖️ 🌅 sunspla.sh 🌅 🏖️](https://sunspla.sh) (NOT LIVE)
+  - [🏖️ 🌅 jackbuildstech.com 🌅 🏖️](https://jackbuildstech.com) (NOT LIVE)
 
-- 🧪 I’m currently having fun working on ...
-  - [🏢 🛠️ JobAppTrack 🛠️ 🏢](https://jobapptrack.com) - a job application tracker built for my former coding bootcamp students
+- 🧪 I’m currently having fun building ...
+  - [⌨️ 🧑‍🏫 (Course Website) The Get A Web Dev Job Course 🧑‍🏫 ⌨️](https://learn.stierwebdev.com/the-get-a-web-dev-job-course?coupon=EARLYACCESS90) - a web development course with ~30 lessons completed and several hundred more to go
+  - [⌨️ 🧑‍🏫 (YouTube) The Get A Web Dev Job Course 🧑‍🏫 ⌨️](https://www.youtube.com/playlist?list=PLgF6apjFR90209B4o06e8qpNV7qUC-bUD) - a youtube playlist of finished video lessons from the course
+  
 
 - 🌱 Some of my previous projects include ...
+  - [🏢 🛠️ JobAppTrack 🛠️ 🏢](https://jobapptrack.com) - a job application tracker built for my former coding bootcamp students
   - [🟩 🎨 GitBoxDraw 🎨 🟩](https://gitboxdraw.com) - deface your GitHub commit graph and become a green dot disrespecter
   - [📍 💻 IPOmg 💻 📍](https://ipomg.com) - find your IP address and approximate geolocation with this static site and free API
   - [🗺️ ✏️ CommandLineCartography ✏️ 🗺️](https://github.com/sunspla-sh/command-line-cartography-practice) - learn to make a population density map of your state
