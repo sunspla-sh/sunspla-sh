@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 You can find me at ...
-  - [🏖️ 🌅 jackbuildstech.com 🌅 🏖️](https://jackbuildstech.com) - my personal website with detailed descriptions of my projects and experience
+  - [🏖️ 🌅 JackBuildsTech.com 🌅 🏖️](https://jackbuildstech.com) - my personal website with detailed descriptions of my projects and experience
 
 - 🧪 I’m currently having fun building ...
   - [⌨️ 🧑‍🏫 (Course Website) The Get A Web Dev Job Course 🧑‍🏫 ⌨️](https://learn.stierwebdev.com/the-get-a-web-dev-job-course?coupon=EARLYACCESS90) - a web development course with ~30 lessons completed and several hundred more to go
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
  
  ![A List of Technologies](tech.png "Wow that's a lot of logos...")
  
- - 💻 To work with me, visit my personal site [jackbuildstech.com](https://jackbuildstech.com) where you can find my email and resume ...
+ - 💻 To work with me, visit my personal site [JackBuildsTech.com](https://jackbuildstech.com) where you can find my email and resume ...
