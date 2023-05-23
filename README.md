@@ -33,6 +33,6 @@ Here are some ideas to get you started:
  
  - 🏗️ I consider myself proficient at building web applications with the following technologies (and I'm always learning more) ...
  
- ![A List of Technologies](tech.png "Wow that's a lot of logos...")
+ ![A List of Technologies](tech-ts.png "Wow that's a lot of logos...")
  
  - 💻 To work with me, visit my personal site [JackBuildsTech.com](https://jackbuildstech.com) where you can find my email and resume ...
