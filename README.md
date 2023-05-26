@@ -20,18 +20,19 @@ Here are some ideas to get you started:
 - 🔭 You can find me at ...
   - [🏖️ 🌅 JackBuildsTech.com 🌅 🏖️](https://jackbuildstech.com) - my personal website with detailed descriptions of my projects and experience
 
+
 - 🧪 I’m currently having fun building ...
   - [⌨️ 🧑‍🏫 (YouTube) The Get A Web Dev Job Course 🧑‍🏫 ⌨️](https://www.youtube.com/playlist?list=PLgF6apjFR90209B4o06e8qpNV7qUC-bUD) - a youtube playlist of intro web development lessons
-  
 
-- 🌱 Some of my previous projects include ...
+
+- ⚙️ Some of my previous projects include ...
   - [🏢 🛠️ JobAppTrack 🛠️ 🏢](https://github.com/sunspla-sh/simple-job-app-tracker-react) - a job application tracker built for my former coding bootcamp students
   - [🟩 🎨 GitBoxDraw 🎨 🟩](https://github.com/sunspla-sh/github-commit-text-generator) - make art with your GitHub commit graph
   - [📍 🌎 IPOmg 🌎 📍](https://github.com/sunspla-sh/ipomg-static) - find your IP address and approximate geolocation with this static site and free API
   - [🗺️ ✏️ CommandLineCartography ✏️ 🗺️](https://github.com/sunspla-sh/command-line-cartography-practice) - learn to make a population density map of your state
   - [🏟️ 🏈 NFL Team Data Scraper 🏈 🏟️](https://github.com/sunspla-sh/nfl-team-data-scraper) - a web scraper to pull all NFL team players from NFL.com and put them into JSON files
  
- - 🏗️ I consider myself proficient at building web applications with the following technologies (and I'm always learning more) ...
+ - 🏗️ I'm proficient at building web applications with the following technologies (and I'm always learning more) ...
  
  ![A List of Technologies](tech-ts-borderless.png "Wow that's a lot of logos...")
  
