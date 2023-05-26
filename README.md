@@ -37,3 +37,5 @@ Here are some ideas to get you started:
  ![A List of Technologies](tech-ts-borderless.png "Wow that's a lot of logos...")
  
  - 💻 To work with me, visit my personal site [JackBuildsTech.com](https://jackbuildstech.com) where you can find my email and resume ...
+
+🧰 Let's build!
