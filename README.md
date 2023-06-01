@@ -39,3 +39,5 @@ Here are some ideas to get you started:
  - 💻 To work with me, visit my personal site [JackBuildsTech.com](https://jackbuildstech.com) where you can find my email and resume ...
 
 🧰 Let's build!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunspla-sh)](https://github.com/anuraghazra/github-readme-stats)
