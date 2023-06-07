@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
  ![A List of Technologies](tech-ts-borderless.png "Wow that's a lot of logos...")
  
- - 🧮 Here's my top language statistics (from public GitHub repositories only) ...
+ - 🧮 My top language statistics (from public GitHub repositories only) are ...
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunspla-sh)
  
