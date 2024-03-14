@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 🔭 You can find me at ...
   - [🏖️ 🌅 JackBuildsTech.com 🌅 🏖️](https://jackbuildstech.com) - my personal website with detailed descriptions of my projects and experience
 
-
+<!--
 - 🧪 I’m currently having fun building ...
   - [⌨️ 🧑‍🏫 (YouTube) The Get A Web Dev Job Course 🧑‍🏫 ⌨️](https://www.youtube.com/playlist?list=PLgF6apjFR90209B4o06e8qpNV7qUC-bUD) - a youtube playlist of intro web development lessons
-
+-->
 
 - ⚙️ Some of my previous projects include ...
   - [🏢 🛠️ JobAppTrack 🛠️ 🏢](https://github.com/sunspla-sh/simple-job-app-tracker-react) - a job application tracker built for my former coding bootcamp students
